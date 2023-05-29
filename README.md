@@ -16,7 +16,7 @@ By building a ML model for heart disease prediction based on the related paramet
 #### 1. Data analysis and visualizations: 
 Subplots between different independent variables shows the chances of having a heart disease in an Individual based on the value of the independent variable for improved prediction.
 #### 2. Correlation and outlier detection: 
-a correlation matrix was plotted to determine the correlation between the independent variables, and it is observed that there is not much of correlation.
+A correlation matrix was plotted to determine the correlation between the independent variables, and it is observed that there is not much of correlation.
 #### 3. Data modelling: 
 Started with data cleaning where outliner detection is performed followed by transformation of some input variable to categorical data.
 
