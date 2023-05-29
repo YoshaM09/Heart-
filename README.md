@@ -1,4 +1,6 @@
 # Heart-Disease-Prediction
+![HD](https://github.com/YoshaM09/Heart-Disease-Prediction/assets/105993890/22ccce4e-e272-4707-bd68-6adb0c0c5d87)
+
 ### Purpose:
 
 To find the correlations between the different attributes available in the dataset with the help of standard Machine Learning methods and then use them efficiently in the prediction of chances of heart disease.
