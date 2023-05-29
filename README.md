@@ -31,3 +31,5 @@ Predictions and accuracy scores were calculated using different models to determ
 Generated Python based machine learning model for heart disease prediction on UCI Heart disease dataset with ML algorithms: SVM, Logistic Regression, KNN and Decision Trees which will be helpful to the medical practitioners at their clinic as decision support system to efficiently predict the chances of Heart disease.
 
 ### Tools & Tech: Python, Jupyter Notebook
+### Dataset link: 
+https://archive.ics.uci.edu/ml/datasets/heart+disease
