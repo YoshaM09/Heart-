@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-![HD](https://github.com/YoshaM09/Heart-Disease-Prediction/assets/105993890/22ccce4e-e272-4707-bd68-6adb0c0c5d87)
+<img width="325" alt="Picture2" src="https://github.com/YoshaM09/Heart-Disease-Prediction/assets/105993890/e665b10d-6053-4553-926d-8c1776032779">
 
 ### Purpose:
 
